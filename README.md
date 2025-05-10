@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nika</h1>
 <h3 align="center">An IT Specialist from Georgia</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nddevel" alt="nddevel" /></a> </p>
+
 - 🔭 I’m currently working on [Neostream.ai](neostream.ai)
 
 - 📫 How to reach me **nikoloz.doreuli.work@gmail.com**
