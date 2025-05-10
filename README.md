@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Neostream.ai](neostream.ai)
+- 🔭 I’m currently working on [Neostream.ai](https://neostream.ai)
 
 - 📫 How to reach me **nikoloz.doreuli.work@gmail.com**
 
