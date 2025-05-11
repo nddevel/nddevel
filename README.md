@@ -15,7 +15,6 @@ Insert welcome message here...
 	<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
 </div>
 
 ### **Linux**
@@ -23,6 +22,7 @@ Insert welcome message here...
 	<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black"/>
 	<img src="https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-NixOS-5277C3?logo=nixos&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
 </div>
 
 ### **Virtualization/Containterization**
