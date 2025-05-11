@@ -4,6 +4,15 @@ Insert welcome message here...
 
 ## 🛠️ Tech Stack  
 
+
+
+### **Cloud**
+
+<div>
+	<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white">
+
+</div>
+
 ### **Languages**
 
 <div>
@@ -14,14 +23,7 @@ Insert welcome message here...
 
 </div>
 
-### **Cloud**
-
-<div>
-	<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white">
-
-</div>
-
-### **Other**
+### **Linux**
 <div>
 	<img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white">
 	<img src="https://img.shields.io/badge/-Drizzle_ORM-4DB33D?logo=drizzle&logoColor=white">
@@ -40,8 +42,6 @@ Insert welcome message here...
 ### 🏴 Tempus Capture The Flag  
 **Description**: A gamified learning tool to help those starting out in Cyber Security get a grasp of core concepts.
 
-### 🩸 White Blood Cell
-**Description**: An attempt to make a software that could infect a network and search for malicious items, remove them and then remove itself from the system. Sadly I had very little knowledge when creating this software and could not finish the project.
 
 ### 📈 Siemp
 **Description**: This is a future project attempting to create a simple siem that will consist of the following technologies.
