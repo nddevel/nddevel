@@ -39,13 +39,7 @@ Insert welcome message here...
 
 ## 🌟 Featured Projects  
 
-### 🏴 Tempus Capture The Flag  
-**Description**: A gamified learning tool to help those starting out in Cyber Security get a grasp of core concepts.
-
-### 📈 Siemp  
-**Description**: This is a future project attempting to create a simple siem that will consist of the following technologies.
-- Rust
-- Vector Database
-- Tauri || Web Framework
+### 📝 Notebox  
+**Description**: a smart expense tracker built with Flask and integrated with a Telegram client. It uses AI to automatically record, categorize, and organize business expenses from voice input
 
 Thanks for stopping by!
