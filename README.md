@@ -6,7 +6,7 @@ Insert welcome message here...
 
 ### **Cloud**
 <div>
-	<img src="https://img.shields.io/badge/-Azure-0078D4?logo=azure&logoColor=white"/>
+	<img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white"/>
 </div>
 
