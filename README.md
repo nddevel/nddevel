@@ -7,6 +7,7 @@ Insert welcome message here...
 ### **Cloud**
 <div>
 	<img src="https://img.shields.io/badge/-Azure-0078D4?logo=azure&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white"/>
 </div>
 
 ### **Languages**
@@ -14,6 +15,7 @@ Insert welcome message here...
 	<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white"/>
 </div>
 
 ### **Linux**
@@ -22,6 +24,7 @@ Insert welcome message here...
 	<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-NixOS-5277C3?logo=nixos&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-QEMU-FF6600?logo=qemu&logoColor=white"/>
 </div>
 
 ### **Learning**
