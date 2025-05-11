@@ -21,11 +21,16 @@ Insert welcome message here...
 ### **Linux**
 <div>
 	<img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black"/>
-	<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-Bash-121011?logo=gnu-bash&logoColor=white"/>
 	<img src="https://img.shields.io/badge/-NixOS-5277C3?logo=nixos&logoColor=white"/>
-	<img src="https://img.shields.io/badge/-QEMU-FF6600?logo=qemu&logoColor=white"/>
 </div>
+
+### **Virtualization/Containterization**
+<div>
+ 	<img src="https://img.shields.io/badge/-QEMU-FF6600?logo=qemu&logoColor=white"/>
+ 	<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white"/>
+</div>
+
 
 ### **Learning**
 <div>
