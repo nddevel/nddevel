@@ -42,6 +42,6 @@ Insert welcome message here...
 ### 📝 Notebox  
 **Description**: a smart expense tracker built with Flask and integrated with a Telegram client. It uses AI to automatically record, categorize, and organize business expenses from voice input
 
-- 📫 How to reach me **nikoloz.doreuli.work@gmail.com**
-
 Thanks for stopping by!
+
+📫 How to reach me **nikoloz.doreuli.work@gmail.com**
