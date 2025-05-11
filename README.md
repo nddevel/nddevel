@@ -17,9 +17,7 @@ Insert welcome message here...
 ### **Cloud**
 
 <div>
-	<img src="
-https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white
-">
+	<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white">
 
 </div>
 
