@@ -8,18 +8,15 @@ Insert welcome message here...
 
 <div>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
-### **Frameworks**
+### **Cloud**
 
 <div>
-	<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white">
-	<img src="https://img.shields.io/badge/-Astro.js-3f1479?logo=astro&logoColor=white">
-	<img src="https://img.shields.io/badge/-Hono-e36002?logo=hono&logoColor=white">
-	<img src="https://img.shields.io/badge/-FastAPI-009485?logo=fastapi&logoColor=white">
-	<img src="https://img.shields.io/badge/-Typer-1e2129?logo=typer&logoColor=white">
-	<img src="https://img.shields.io/badge/-Pydantic-e92063?logo=pydantic&logoColor=white">
+	<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+
 </div>
 
 ### **Other**
