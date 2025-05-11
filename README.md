@@ -1,18 +1,53 @@
-<h1 align="center">Hi 👋, I'm Nika</h1>
-<h3 align="center">An IT Specialist from Georgia</h3>
+# Howdy!
 
+Insert welcome message here...
 
+## 🛠️ Tech Stack  
 
-- 🔭 I’m currently working on [Neostream.ai](https://neostream.ai)
+### **Languages**
 
-- 📫 How to reach me **nikoloz.doreuli.work@gmail.com**
+<div>
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+	<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### **Frameworks**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div>
+	<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white">
+	<img src="https://img.shields.io/badge/-Astro.js-3f1479?logo=astro&logoColor=white">
+	<img src="https://img.shields.io/badge/-Hono-e36002?logo=hono&logoColor=white">
+	<img src="https://img.shields.io/badge/-FastAPI-009485?logo=fastapi&logoColor=white">
+	<img src="https://img.shields.io/badge/-Typer-1e2129?logo=typer&logoColor=white">
+	<img src="https://img.shields.io/badge/-Pydantic-e92063?logo=pydantic&logoColor=white">
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nddevel&show_icons=true&locale=en&layout=compact" alt="nddevel" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nddevel" alt="nddevel" /></a> </p>
+### **Other**
+<div>
+	<img src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=white">
+	<img src="https://img.shields.io/badge/-Drizzle_ORM-4DB33D?logo=drizzle&logoColor=white">
+	<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
+	<img src="https://img.shields.io/badge/-NixOS-5277C3?logo=nixos&logoColor=white">
+</div>
+
+### **Learning**
+
+<div>
+	<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+</div>
+
+## 🌟 Featured Projects  
+
+### 🏴 Tempus Capture The Flag  
+**Description**: A gamified learning tool to help those starting out in Cyber Security get a grasp of core concepts.
+
+### 🩸 White Blood Cell
+**Description**: An attempt to make a software that could infect a network and search for malicious items, remove them and then remove itself from the system. Sadly I had very little knowledge when creating this software and could not finish the project.
+
+### 📈 Siemp
+**Description**: This is a future project attempting to create a simple siem that will consist of the following technologies.
+- Rust
+- Vector Database
+- Tauri || Web Framework
+
+Thanks for stopping by!
